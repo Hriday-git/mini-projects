@@ -11,7 +11,7 @@ st.set_page_config(page_title="Wildlife Dashboard", layout="wide")
 # -------------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/wildlife_tracking_2024_expanded.csv")
+    df = pd.read_csv("data/wildlife.csv")
 
     # Fix column names (important)
     df = df.rename(columns={
