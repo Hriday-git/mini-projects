@@ -15,10 +15,22 @@ Analyzes wildlife tracking data from IoT sensors to identify animal behavior pat
 - Auto-selects best performing model by accuracy
 
 ## Risk Detection Logic
-| Risk Level | Condition                                                                      |
-| High       | Heart Rate > 110 or motion is Running / Swimming / Flying / Jumping / Climbing |
-| Medium     | Heart Rate ≥ 90                                                                |
-| Normal     | All other conditions                                                           |
+-High Risk
+Heart Rate > 110
+Motion Type belongs to:
+Running
+Swimming
+Flying
+Jumping
+Climbing
+
+-Medium Risk
+Heart Rate ≥ 90
+
+-Normal
+All other conditions
+
+This logic helps identify potentially stressed, threatened, or abnormal animal behavior.
 
 ## How to Run
 ```bash
