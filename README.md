@@ -32,8 +32,11 @@ python3 analysis.py
 
 ## Demo
 <img width="1918" height="917" alt="Screenshot 2026-05-03 194619" src="https://github.com/user-attachments/assets/9b78a5f2-42cb-46cc-b4e1-9c9fd235ccbf" />
+
 <img width="1909" height="902" alt="Screenshot 2026-05-03 194643" src="https://github.com/user-attachments/assets/e717b788-8a17-452a-9798-92c83feadbb6" />
+
 <img width="1480" height="794" alt="Screenshot 2026-05-03 194722" src="https://github.com/user-attachments/assets/bdfc04a3-2f6f-465d-a4a5-13abd7aef9b5" />
+
 <img width="1452" height="844" alt="Screenshot 2026-05-03 194831" src="https://github.com/user-attachments/assets/5ed923ed-6e3c-4c69-910c-6cc7b364bca1" />
 
 
